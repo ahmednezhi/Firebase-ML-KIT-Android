@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ML kit test</string>
+    <string name="detect_faces">Detect faces</string>
+    <string name="recognize_text">Recognize Text</string>
+    <string name="scan_barcodes">Scan barcodes</string>
+    <string name="pick_image">Pick Image</string>
+</resources>
